@@ -1,4 +1,4 @@
-### Hi there 👋
+### boas vindas 
 
 <!--
 **nicolylopesf/Nicolylopesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->*nicolylopesf/Nicolylopesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- Boas vindas
+- Trabalho no senai
+- Sou estudante do 3° ano do ensino médio
+- Estou á procura de novidade 
